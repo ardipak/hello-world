@@ -1,0 +1,3 @@
+This is my first file to learn about git and github. i am using git gui to create a repo and will place tihs in that repo.12/15/2021 12:15PM
+
+This is another added line
